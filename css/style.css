@@ -296,6 +296,11 @@ nav ul li a {
     font-size: 30px;
 }
 
+.header-content .list-edu li {
+    color: #fff;
+    list-style-type: none;
+}
+
 
 /*-----------------------------------------------------------------------------------*/
 
@@ -414,6 +419,17 @@ nav ul li a {
 .icon {
     height: 40px;
     color: darkgray;
+}
+
+.experiences div {
+    height: 90px;
+    padding: 5px;
+}
+
+.experiences p {
+    line-height: 0px;
+    color: black;
+    font-size: 13px;
 }
 
 
