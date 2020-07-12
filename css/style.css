@@ -424,10 +424,11 @@ nav ul li a {
 .experiences div {
     height: 90px;
     padding: 5px;
+    word-wrap: break-word;
 }
 
 .experiences p {
-    line-height: 0px;
+    /* line-height: 0px; */
     color: black;
     font-size: 13px;
 }
